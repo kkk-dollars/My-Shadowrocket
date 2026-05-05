@@ -1,0 +1,56 @@
+# 币安 (Binance)
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,bnbdzh.com
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.sh
+DOMAIN-SUFFIX,binance.watch
+
+# 欧易 (OKX)
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+
+# 芝麻开门 (Gate.io)
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gateio.io
+
+# Backpack (背包)
+DOMAIN-SUFFIX,backpack.exchange
+
+# 海妖 (Kraken)
+DOMAIN-SUFFIX,kraken.com
+
+# Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybits.com
+
+# Bitget
+DOMAIN-SUFFIX,bitget.com
+
+# MEXC (抹茶)
+DOMAIN-SUFFIX,mexc.com
+
+# HTX (火币)
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.com
+
+# KuCoin
+DOMAIN-SUFFIX,kucoin.com
+
+# Coinbase
+DOMAIN-SUFFIX,coinbase.com
+
+# Crypto.com
+DOMAIN-SUFFIX,crypto.com
+
+# 其他辅助及行情 (可选)
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,tradingview.com
