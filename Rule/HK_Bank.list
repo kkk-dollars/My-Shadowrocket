@@ -1,0 +1,32 @@
+# 传统银行
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.hk
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,boc.com.hk
+DOMAIN-SUFFIX,sc.com.hk
+DOMAIN-SUFFIX,dbs.com.hk
+DOMAIN-SUFFIX,citibank.com.hk
+DOMAIN-SUFFIX,icbcasia.com
+DOMAIN-SUFFIX,hkbea.com
+DOMAIN-SUFFIX,dahsing.com
+DOMAIN-SUFFIX,cmb.com.hk
+DOMAIN-SUFFIX,uob.com.hk
+DOMAIN-SUFFIX,ocbc.com.hk
+
+# 虚拟银行
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,mox.com
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,livibank.com
+DOMAIN-SUFFIX,fusionbank.com
+DOMAIN-SUFFIX,antbank.hk
+
+# 跨境汇款
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wise.com.hk
+DOMAIN-SUFFIX,api.wise.com
+DOMAIN-SUFFIX,api.transferwise.com
