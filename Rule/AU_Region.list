@@ -1,0 +1,46 @@
+# =========================================
+# 澳洲本地分流规则集 (AU_Region.list) - 完整增强版
+# =========================================
+
+# --- 1. 澳洲顶级域名超级兜底 ---
+DOMAIN-SUFFIX,au
+
+# --- 2. 西澳房产、求职与本地生活平台 ---
+DOMAIN-SUFFIX,realestate.com.au
+DOMAIN-SUFFIX,domain.com.au
+DOMAIN-SUFFIX,reiwa.com.au
+DOMAIN-SUFFIX,rent.com.au
+DOMAIN-SUFFIX,gumtree.com.au
+DOMAIN-SUFFIX,seek.com.au
+DOMAIN-SUFFIX,carsales.com.au
+
+# --- 3. 澳洲主流银行与金融机构 ---
+DOMAIN-SUFFIX,commbank.com.au
+DOMAIN-SUFFIX,westpac.com.au
+DOMAIN-SUFFIX,anz.com.au
+DOMAIN-SUFFIX,nab.com.au
+DOMAIN-SUFFIX,macquarie.com.au
+
+# --- 4. 澳洲政务与移民局平台 ---
+DOMAIN-SUFFIX,homeaffairs.gov.au
+DOMAIN-SUFFIX,immi.gov.au
+DOMAIN-SUFFIX,my.gov.au
+DOMAIN-SUFFIX,australia.gov.au
+
+# --- 5. 商学院教育系统与学术底层支撑 (新增) ---
+DOMAIN-SUFFIX,kbs.edu.au
+DOMAIN-SUFFIX,kaplan.edu.au
+DOMAIN-SUFFIX,kaplan.com
+DOMAIN-SUFFIX,canvaslms.com
+DOMAIN-SUFFIX,instructure.com
+DOMAIN-SUFFIX,blackboard.com
+DOMAIN-SUFFIX,turnitin.com
+DOMAIN-SUFFIX,cengage.com
+
+# --- 6. 澳洲本地常用华人资讯与社区 (新增) ---
+DOMAIN-SUFFIX,yeeyi.com
+DOMAIN-SUFFIX,ozchinese.com
+DOMAIN-SUFFIX,oursteps.com.au
+
+# --- 7. 澳洲 IP 段终极兜底 ---
+GEOIP,AU
