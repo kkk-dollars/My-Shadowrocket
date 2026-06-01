@@ -1,0 +1,32 @@
+# =========================================
+# 美股券商分流规则 (US_Brokers.list)
+# 包含：盈透证券 (IBKR)、嘉信理财 (Charles Schwab)、德美利 (TD Ameritrade)
+# 适用软件：Loon / Shadowrocket / Surge
+# =========================================
+
+# --- 盈透证券 (Interactive Brokers) ---
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.jp
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkr.com.cn
+DOMAIN-SUFFIX,ibkr.info
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-KEYWORD,interactivebrokers
+
+# --- 嘉信理财 (Charles Schwab) ---
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,charlesschwab.com
+DOMAIN-SUFFIX,schwabplan.com
+DOMAIN-SUFFIX,schwabpt.com
+DOMAIN-SUFFIX,schwabrt.com
+DOMAIN-KEYWORD,charlesschwab
+
+# --- 德美利证券 (TD Ameritrade) & Thinkorswim ---
+# 注：嘉信理财已全面整合德美利证券，底层接口和客户端互通
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,tdameritrade.com.hk
+DOMAIN-SUFFIX,tdameritrade.com.sg
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-KEYWORD,tdameritrade
